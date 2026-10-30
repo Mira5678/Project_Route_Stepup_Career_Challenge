@@ -40,6 +40,7 @@ This project uses a Python-based data science workflow, including:
 ## Project Structure
 - `project_route_datascience_AI.ipynb` — main analysis notebook containing data exploration, visualizations, and model building
 - `Project-Route-Step-Up-Data-Science-CSV-Pack/` — dataset folder containing the CSV files used in the challenge
+- [Project presentation](<Kunmira Yantavej - Project ROUTE Step up presentation (Data Science and AI challenge).pptx>) — presentation summarizing the challenge, findings, interpretations, analysis and provided recommendations and limitations.
 - `README.txt` — data package guidance and challenge instructions
 
 ## How to Use
